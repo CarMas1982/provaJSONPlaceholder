@@ -1,19 +1,8 @@
-[
-    {
-        "id": "bitcoin", 
-        "name": "Bitcoin", 
-        "symbol": "BTC", 
-        "rank": "1", 
-        "price_usd": "5670.66944305", 
-        "price_btc": "1.0", 
-        "24h_volume_usd": "6944834388.7", 
-        "market_cap_usd": "98534544610.0", 
-        "available_supply": "17376175.0", 
-        "total_supply": "17376175.0", 
-        "max_supply": "21000000.0", 
-        "percent_change_1h": "1.27", 
-        "percent_change_24h": "-10.87", 
-        "percent_change_7d": "-13.12", 
-        "last_updated": "1542230835"
-    }
-]
+{
+  "name": "Nirvana",
+  "founded": 1991,
+  "members": [
+    "Kurt Kobain",
+    "Dave Grohl"
+  ]
+}

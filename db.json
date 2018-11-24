@@ -1,14 +1,19 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    {
+        "id": "bitcoin", 
+        "name": "Bitcoin", 
+        "symbol": "BTC", 
+        "rank": "1", 
+        "price_usd": "5670.66944305", 
+        "price_btc": "1.0", 
+        "24h_volume_usd": "6944834388.7", 
+        "market_cap_usd": "98534544610.0", 
+        "available_supply": "17376175.0", 
+        "total_supply": "17376175.0", 
+        "max_supply": "21000000.0", 
+        "percent_change_1h": "1.27", 
+        "percent_change_24h": "-10.87", 
+        "percent_change_7d": "-13.12", 
+        "last_updated": "1542230835"
+    }
+]
